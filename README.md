@@ -54,19 +54,9 @@
 
 ---
 
-## 📊 GitHub статистика
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VallfiK&theme=dark&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VallfiK&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VallfiK&layout=compact&theme=dark)
 
----
 
-## 🏆 Достижения
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=VallfiK&theme=radical&no-frame=true)
-
----
 
 ## 💬 Цитата
 
